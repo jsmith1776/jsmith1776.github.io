@@ -8,7 +8,7 @@
     </style>
   </head>
   <body bgcolor=white>
-    <img rc="images/download.jif"
+    <img src="images/download.gif">
 
     <table border="0" cellpadding="10">
       <tr>
